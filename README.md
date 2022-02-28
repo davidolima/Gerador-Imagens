@@ -7,6 +7,7 @@
   * Popule as pastas das camadas com as peças que compõem sua imagem.
     * Quanto maior a camada, mais no topo a imagem será renderizada.
     * Use imagens ```.png```.
+    * Não deixe nenhuma camada vazia. Se não for utilizar alguma camada, mantenha o atual arquivo ```1.png``` dentro dela.
   * Rode o script abrindo uma janela do terminal no local em que está localizado o arquivo ```Main.py``` e execute o comando ```python Main.py```.
 
 # Atalhos de teclado
