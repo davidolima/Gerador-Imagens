@@ -1,0 +1,1 @@
+Nesse diretório será salvo as imagens que foram geradas pelo script.
