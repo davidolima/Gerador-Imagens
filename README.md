@@ -1,3 +1,6 @@
+# Sobre
+Este é um script feito em Python que gera imagens aleatórias de forma manual ou serial a partir da junção de peças fornecidas em camadas.
+
 # Instalação
   * Instalando as dependências
     * Baixe e Instale o python do site oficial. Certifique-se que na instalação o python foi adicionado ao PATH.
