@@ -5,7 +5,7 @@
 
 # Usando o script
   * Popule as pastas das camadas com as peças que compõem sua imagem.
-    * Quanto maior a camada, mais em cima a imagem será renderizada.
+    * Quanto maior a camada, mais no topo a imagem será renderizada.
     * Use imagens ```.png```.
   * Rode o script abrindo uma janela do terminal no local em que está localizado o arquivo ```Main.py``` e execute o comando ```python Main.py```.
 
